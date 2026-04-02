@@ -28,7 +28,7 @@ Both files must be in the same folder.
 
 ## References
 
-- Bryan & Leise (2006). The $25,000,000,000 eigenvector. *SIAM Review*, 48(3).
+- Bryan, K. & Leise, T. (2006). The $25,000,000,000 eigenvector: the linear algebra behind Google
 - Cornell University. The mathematics of Google search. `pi.math.cornell.edu`
-- Gregory & Kirkland (1999). Singular values of tournament matrices. *Electronic Journal of Linear Algebra*, 5.
-- Wikipedia. Perron–Frobenius theorem.
+- 2024–25 United Rugby Championship results and standings. Wikipedia.
+- Website Scraper tutorial: https://www.youtube.com/watch?v=ng2o98k983k
